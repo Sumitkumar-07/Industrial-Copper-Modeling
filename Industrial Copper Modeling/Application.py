@@ -22,12 +22,6 @@ with col2:
     st.write('<div style="text-align:center; font-size:40px;"><b>Industrial Copper Modelling</b></div>',
              unsafe_allow_html=True)
 
-
-
-
-
-
-
 file_path = 'unique.txt'
 
 # Initialize an empty list to store the numbers
