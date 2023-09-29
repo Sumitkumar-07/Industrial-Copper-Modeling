@@ -60,4 +60,8 @@ To predict the status of a copper transaction, follow these steps:
 
 The app uses machine learning models for predictions. Pre-trained models (`model_reg.joblib` and `model_Cat.joblib`) and scalar objects (`scaler_reg.joblib` and `scaler_cat.joblib`) are included in the repository. These models were trained on historical data for copper transactions.
 
+## Data Source
 
+The data used for training the models comes from the the dataset for which i provide link below.
+
+Link- "https://docs.google.com/spreadsheets/d/18eR6DBe5TMWU9FnIewaGtsepDbV4BOyr/edit?usp=sharing&ouid=106868047903378223185&rtpof=true&sd=true"
